@@ -11,8 +11,7 @@ problems and top interview questions. Then plan to do by categories or give more
 
 # Problems table
 
-| Number       | Name          | Status  |  Notes |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+No. | Name | status | Notes
+--- | --- | --- |---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
