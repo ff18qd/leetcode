@@ -13,5 +13,5 @@ problems and top interview questions. Then plan to do by categories or give more
 
 No. | Name | status | Notes
 --- | --- | --- |---
+494 | [Targe Sum](https://leetcode.com/problems/target-sum/description/) | `Solved` | 
 *Still* | `renders` | **nicely**
-1 | 2 | 3
