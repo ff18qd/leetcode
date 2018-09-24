@@ -11,9 +11,9 @@ problems and top interview questions. Then plan to do by categories or give more
 
 # Problems table
 
-No. | Name | Status | Notes
+No. | Name | Status | Solution
 --- | --- | --- |---
-494 | [Targe Sum](https://leetcode.com/problems/target-sum/description/) | `Solved` | 
+494 | [Targe Sum](https://leetcode.com/problems/target-sum/description/) | `Solved` | [My solution](./solutions/494.TargetSum.js)
 
 
 <!--*Still* | `renders` | **nicely**-->
