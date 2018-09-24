@@ -5,9 +5,9 @@ problems and top interview questions. Then plan to do by categories or give more
 
 # Links
 
-[Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/)*
-
+[Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/)--
 [Top Interview Questions](https://leetcode.com/problemset/top-interview-questions/)
+
 
 # Problems table
 
