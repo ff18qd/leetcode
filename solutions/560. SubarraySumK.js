@@ -15,7 +15,6 @@ var subarraySum = function(nums, k) {
             sum += nums[i+j];
             if (sum === k) {
                 result ++;
-                break;
             }
         }
     }
@@ -23,4 +22,4 @@ var subarraySum = function(nums, k) {
     return result;
 };
 
-console.log(subarraySum([1,1,3], 2))
+
