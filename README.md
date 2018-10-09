@@ -13,7 +13,8 @@ problems and top interview questions. Then plan to do by categories or give more
 
 No. | Name | Status | Solution
 --- | --- | --- |---
-312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/description/) | `Solving` | [312 solution](./solutions/312.BurstBallons.js)
+160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | `Solved` | [160 solution](./solutions/160.IntersectionofTwoLinkedLists.js)
+312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/description/) | `Solved` | [312 solution](./solutions/312.BurstBallons.js)
 494 | [Targe Sum](https://leetcode.com/problems/target-sum/description/) | `Solved` | [494 solution](./solutions/494.TargetSum.js)
 560 | [Subarray Sums Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | `Solved` | [560 solution](./solutions/560.SubarraySumK.js)
 
